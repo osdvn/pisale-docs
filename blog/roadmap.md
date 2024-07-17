@@ -4,13 +4,38 @@ title: Kế hoạch cải tiến sản phẩm
 authors: saosangmo
 tags: [roadmap,pisale]
 ---
+## 2024-04-30. V6.5.1
+1. - [x] Tối ưu hóa backup
+2. - [x] AMP-HTML full page
+3. - [x] Quick view product
+6. - [-] Tích hợp tiktok
+7. - [-] Tích hợp Google Ads, Facebook Ads
+8. - [x] Mẫu nội dung cho trình soạn thảo
+9. - [-] Cộng tác nhóm khi soạn thảo bài viết
+10. - [-] Nghiệp vụ mua trả góp
+11. - [-] Customer portal, self service to manage issue & ticket. Public ticket
+12. - [x] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
+13. - [-] Chức năng bảo hành
+14. - [-] Form Builder
+15. - [-] Popup Builder
+16. - [-] Layout drag and drop
+17. - [-] Danh sách người dùng online
+18. - [-] 🐱‍💻 Admin Tasks
+19. - [x] Tối ưu hóa UX: tooltip, ảnh đại diện
+20. - [x] Code lại phần giỏ hàng
+21. - 🐱‍💻 Quick register/Single Sign-On
+22. - 🐱‍💻 Quản lý khách hàng
+23. - [-] Hỗ trợ đặt hàng bỏ qua bước thanh toán
+24. - [-] Bộ lọc sản phẩm
+25. - [-] Cookie Consent
+26. - [-] Nhóm sản phẩm chính vs nhóm sản phẩm bổ sung
 
 # Kế hoạch cải tiến sản phẩm
 ## 2023-01-15. V6.5.0
 1. - [x] Nâng cấp TinyMCE6
 2. - [x] Sitemap.xml hỗ trợ sitemap.xsl
 3. - [x] Tắt chức năng không dùng cho mỗi dự án
-4. - [-] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
+4. - [x] Cho phép định nghĩa liên kết Opensearch về loại trang cụ thể (Tất cả, Sản phẩm, Tin bài)
 5. - [x] Task queue for optimizing lossless image
 6. - [x] MySQL Console
 7. - [x] Quản lý broken link: mức cơ bản
@@ -34,30 +59,3 @@ tags: [roadmap,pisale]
 25. - [x] Đếm lượt reach của 404 link
 26. - [x] Hỗ trợ Tax Class
 27. - [x] Bổ sung chức năng coupon
-
-## 2022-04-30. V6.5.1
-1. - [ ] Tối ưu hóa backup
-2. - [ ] AMP-HTML full page
-3. - [ ] Quick view product
-6. - [ ] Tích hợp tiktok
-7. - [ ] Tích hợp Google Ads, Facebook Ads
-8. - [ ] Mẫu nội dung cho trình soạn thảo
-9. - [ ] Cộng tác nhóm khi soạn thảo bài viết
-10. - [-] Nghiệp vụ mua trả góp
-11. - [ ] Customer portal, self service to manage issue & ticket. Public ticket
-12. - [ ] Bổ sung chức năng tìm kiếm cho danh sách dài trong khu vực admin
-13. - [ ] Chức năng bảo hành
-14. - [ ] Form Builder
-15. - [ ] Popup Builder
-16. - [ ] Layout drag and drop
-17. - [ ] Danh sách người dùng online
-18. - [ ] 🐱‍💻 Admin Tasks
-19. - [ ] Tối ưu hóa UX: tooltip, ảnh đại diện
-20. - [ ] Code lại phần giỏ hàng
-21. - 🐱‍💻 Quick register/Single Sign-On
-22. - 🐱‍💻 Quản lý khách hàng
-23. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
-24. - [ ] Bộ lọc sản phẩm
-25. - [ ] Cookie Consent
-26. - [ ] Popup Builder
-27. - [ ] Nhóm sản phẩm chính vs nhóm sản phẩm bổ sung
