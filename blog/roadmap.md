@@ -30,7 +30,6 @@ tags: [roadmap,pisale]
 25. - [-] Cookie Consent
 26. - [-] Nhóm sản phẩm chính vs nhóm sản phẩm bổ sung
 
-# Kế hoạch cải tiến sản phẩm
 ## 2023-01-15. V6.5.0
 1. - [x] Nâng cấp TinyMCE6
 2. - [x] Sitemap.xml hỗ trợ sitemap.xsl
