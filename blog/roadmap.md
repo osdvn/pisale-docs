@@ -4,6 +4,8 @@ title: Kế hoạch cải tiến sản phẩm
 authors: saosangmo
 tags: [roadmap,pisale]
 ---
+## 2025-09-30. V6.6.0
+1. - [x] Backup mysql và data
 ## 2024-04-30. V6.5.1
 1. - [x] Tối ưu hóa backup
 2. - [x] AMP-HTML full page
