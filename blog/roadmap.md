@@ -6,6 +6,14 @@ tags: [roadmap,pisale]
 ---
 ## 2025-09-30. V6.6.0
 1. - [x] Backup mysql và data
+2. - [ ] Tích hợp tiktok
+3. - [ ] Cộng tác nhóm khi soạn thảo bài viết
+4. - [ ] Popup Builder
+5. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
+6. - [ ] Form Builder
+7. - [ ] Popup Builder
+8. - [ ] Quản lý khách hàng
+9. - [ ] Xem thử bài viết
 ## 2024-04-30. V6.5.1
 1. - [x] Tối ưu hóa backup
 2. - [x] AMP-HTML full page
