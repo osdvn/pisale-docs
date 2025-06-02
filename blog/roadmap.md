@@ -8,7 +8,7 @@ tags: [roadmap,pisale]
 1. - [x] Backup mysql và data
 2. - [ ] Tích hợp tiktok
 3. - [ ] Cộng tác nhóm khi soạn thảo bài viết
-4. - [ ] Popup Builder
+4. - [ ] Popup builder
 5. - [ ] Hỗ trợ đặt hàng bỏ qua bước thanh toán
 6. - [ ] Form Builder
 7. - [ ] Popup Builder
